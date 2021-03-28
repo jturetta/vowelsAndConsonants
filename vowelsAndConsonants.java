@@ -18,7 +18,7 @@ class Main {
                     count_consonants += 1;
                 }
             }
-            System.out.println("São " + count_vowels + " vogais e " + count_consonants + " consoantes.");
+            System.out.println("There are " + count_vowels + " vowels and " + count_consonants + " consonants.");
         }
     }
 }
